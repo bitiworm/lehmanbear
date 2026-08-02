@@ -2,3 +2,5 @@ logs/
 .DS_Store
 *.tmp
 eng.traineddata
+rendered_lehman/
+ocr_lehman_results.json

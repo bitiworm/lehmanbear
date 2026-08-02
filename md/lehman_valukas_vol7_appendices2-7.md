@@ -5915,7 +5915,9 @@ relevant to the Examiner’s review.
 
 ［第 157 页］
 
-［第 157 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 157 页］
+
+Exhibit 5.1
 
 ［第 158 页］
 
@@ -13231,7 +13233,9 @@ Request
 
 ［第 285 页］
 
-［第 285 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 285 页］
+
+Exhibit 5.2
 
 ［第 286 页］
 
@@ -13539,7 +13543,9 @@ Zusy.MarkL
 
 ［第 292 页］
 
-［第 292 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 292 页］
+
+Exhibit 5.3
 
 ［第 293 页］
 
@@ -13632,7 +13638,9 @@ the above.
 
 ［第 295 页］
 
-［第 295 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 295 页］
+
+Exhibit 5.4
 
 ［第 296 页］
 
@@ -13924,51 +13932,513 @@ New York, New York
 
 ［第 304 页］
 
-［第 304 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 304 页］
+
+COURT UNITED STATES BANKRUPTCY COURT
+COUNTY OF SOUTHERN DISTRICT OF NEW YORK CASE
+IN RE LEHMAN BROTHERS HOLDINGS INC. ET AL., ABgex No. 08-13555
+DEBTOR.
+Plaintiff(s)
+against AFFIDAVIT OF
+SERVICE OF SUBPOENA
+FOR RULE 2004 EXAMINATION
+Defendant(s)
+STATE OF NEW YORK, COUNTY OF ~~ NEW YORK SS: The undersigned, being duly swom, deposes and says; deponent is not a
+party herein, is over 18 years of age and resides at EAST MEADOW, NEW YORK
+Thaton 8/11/09 at 4:56 PM. a 101 PARK AVENUE, NEW YORK, NEW YORK 6TH FL.
+deponent served the within subpoena on ABN AMRO SECURITIES (USA) INC. witness therein named,
+FOR RULE 2004 EXAMINATION C/0 ROYAL BANK OF SCOTLAND
+MOIVIDUAL by delivering a true copy to said witness personally; deponent knew the person so served to be the witness described in said
++ Od subpoena.
+comromaion ~~ a DOMESTIC corporation, by delivering thereat a true copy to ~~ CARL KEITT
+2. personally, deponent knew said corporation so served to be the corporation witness and knew said individual to be
+MANAGING AGENT thereof.
+surasLe act Person Dy delivering thereat a true copy to a person of suitable age
+» Od and discretion. Said premises is witness’—actual place of business—dwelling place—usual place of abode—within the state.
+ArFunG To oor, ETc. by affixing a true copy to the door of said premises, which is witness’—actual place of business—dwelling place—usual place
+« Od of abode—within the state. Deponent was unable, with due diligence to find witness or a person of suitable age and discretion
+thereat, having called there
+prods Within 20 days of such delivery or affixing, deponent enclosed a copy of same in a postpaid envelope properly addressed to witness
+USEWTH3OR4 at witness’ last known residence, at and deposited
+a [J said envelope in an official depository under the exclusive care and custody of the U.S. Postal Service within New York State.
+ALN TO Within 20 days of such delivery or affixing, deponent enclosed a copy of same in a first class postpaid envelope properly
+usewmiions addressed to witness at witness’ actual place of business, at
+ss [J in an official depository under the exclusive care and custody of the U.S. Postai Service within New York State. The envelope bore
+the legend “Personal and Confidential” and did not indicate on the outside thereof, by return address or otherwise, that the
+communication was from an attorney or concerned an action against the witness.
+Er ow X Male TZ White Skin XBlack Hair [J White Hair [J 14-20 Yrs. J Under 5’ J Under 100 Lbs.
+1.2,083 Z Female & Black Skin 0 Brown Hair {J Balding 21-35Yrs. OC 507-53" (OJ 100-130 Lbs.
+OU Yellow Skin [0 Blonde Hair [J Mustache 0 36-50 Yrs. [OO 5°47-5'8" [® 131-160 Lbs.
+J Brown Skin [0 Gray Hair OO Beard 00 51-65 Yrs. 5'9"-6'0" [J 161-200 Lbs.
+OJ Red Skin O Red Hair O Glasses O Over 65 Yrs. OJ Over 6’ O Over 200 Lbs.
+Other identifying features:
+At the time of said service, deponent paid (tendered) in advance $ the authorized traveling expen: d one day's witness fee.
+> EE)
+Gabriels Galindo _ _— a
+Swom to before me on Notary Publ tae of New York = a a—
+8/12/09 pnty__, TT JUAN_BY AGUIRRE
+ommisiprExps $s 6/0 2. D1 ~ [al
+(eg License No. ......843839
 
 ［第 305 页］
 
-［第 305 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 305 页］
+
+B254 (Form 254 — Subpoena for Rule 2004 Examination) (12/07) .
+UNITED STATES BANKRUPTCY COURT
+Southern District of New York
+Inte Lehman Brothers Holdings, Imc., et al. SUBPOENA FOR RULE 2004 EXAMINATION
+Debtor
+CaseNo.*  08-13555 (IMP)
+’ To: Ernst & Young Chapter 11 (Jointly Administered)
+c/o Michael Solender
+General Counsel
+5 Times Square
+New York, NY 10036-6530
+cc: Miles Ruthberg
+Latham & Watkins
+885 Third Avenue
+New York, NY 10022-4834
+[J YOU ARE COMMANDED to appear and testify at an examination under Rule 2004, Federal Rules of Bankruptcy Procedure, at the place,
+date, and time specified below. A copy of the court order authorizing the examination is attached.
+mT
+EX YOU ARE COMMANDED to produce and permit inspection and copying of the following documents or objects at the place, date, and
+time specified below (list documents or objects):
+See attached rider.
+PLACE DATE AND TIME
+Jenner & Block LLP
+919 Third Avenue 37th Floor June 8, 2009, 10:30 a.m.
+New York, NY 10022-3908
+TSSUING OFF, Va i IE DATE
+73% PD May 29, 2009
+YY OA yg Witt —
+TSSUING OFFICER'S NAME, ADDRESS, ANB-PHONE, BER Robert L. Byman
+: Jenner & Block LLP
+919 Third Avenue 37th Floor 312-923-2679
+) New York, NY 10022-3908
+* If the bankruptcy case is pending in & district other than the district in Which the subpoena is issued, state the district under the case number.
 
 ［第 306 页］
 
-［第 306 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 306 页］
+
+B254 (Form 254 — Subpoena for Rule 2004 Examination) (12/07)
+PROOF OF SERVICE
+DATE PLACE
+SERVED
+SERVED ON (PRINT NAME) MANNER OF SERVICE
+SERVED BY (PRINT NAME) TITLE
+DECLARATION OF SERVER
+NEE ————————-----m
+I declare under penalty of perjury under the laws of the United States of America that the foregoing information contained in the Proof
+of Service is true and correct.
+DATE SIGNATURE OF SERVER
+———_
+ADDRESS OF SERVER
+ee ———— ee ——
+Rule 45, Federal Rules of Civil Procedure, Subdivisions (c), (d), and (¢), as amended on December 1, 2007, mede applicable in cases under the Bankruptcy Code by Rule 9016,
+Federal Rules of Bankruptcy Procedure:
+{c) Protecting a Person Subject to a Subpoena. (d) Duties in Responding to a Subpoena,
+&4 Avoiding Undue Burden or Expense; Sanctions. A party or attorney responsible for (1) Producing Documents or Electronically Stored Information. These procedures apply
+issuing and serving a subpoena must take reasonable steps to avoid imposing undue burden or 1o producing documents or electronically stored formation;
+expense on a persan subject to the subpoena. The issuing court must enforce this duty and impose an (A) Documents, A person responding to a subpoena to produce documents mus?
+appropriate sanction — which may include lost earnings and reasonable attorney's fees — on a party produce them 8s they are kept in the ordinary course of usiness or must organize and label them
+or attorney who fails to comply. to correspond to the categories in the demand.
+& Command to Pro Materials or Permit Inspection. (8) Form for Producing Electronically Stored Information Not Specified, If a
+{A) Appearance Not Required. A person commanded to produce documents, subpoena does not specify a form for producing electronically stored information, the person
+electronically stared information, or tangible things, or to permit the inspection of premises, need not responding must produce it in a form or forms in which it is ordinarily maintained or in a
+appear in person at the place of production or inspection unless also commanded to appear fora. reasonsbly usable form or forms.
+eposition, hearing, or trial, j (C) Electronically Stored Information Produced in Only One Form, The person
+(B) Objections. A person commanded to produce documents or tangible things or vosponding need not produce the same cloctronically stored Information in more than one form.
+to permit inspection may serve on the party or attorney designated in the subpoena a written 0) Taasoessiblo Electronically Stored Information. The person responding
+objection to Inspecting, ‘copying, testing or sampling any or all of the materials or to inspecting the need not provide discovery of electronically stored information from sources that the person
+premises — ar to producing electranically stored ih bapmation in the form or forms requested. identifies &5 not reasonably accessible because of undue burden or cast, On motion to compel
+Objection must be served before the earlier of the time specified for compliance or 14 days after the discovery or fora, protective order, the person responding must show that the information is not
+subpoena is served. If an objection is made, the following rules apply: ji reasonably accessible because of undue burden or cost. If that showing is made, the court may
+B (7) At eny time, on notice to the commanded person, the serving party nonetheless order discovery from such sources if the requesting party shows good cause,
+may move the issuing court for an order compelling production or inspection, considering the limitations of Rule 26(b)(2)(C). The court may spooify conditions for the
+(ii) Thesc acts may be required only es directed in the order, and the discovery.
+. order must protect a person who is neither a party nor a party's officer from significant expense (2) Claiming Privilege or Protection.
+resulting from compl iance. I) Information Withheld. A person withholding subpoenaed information
+(3) Quashing or Modifying & Subpoena. under a claim that it is privileged or subject ta protection as trial-preparation material must:
+‘When Required, On timely motion, the issuing court must quash or modify a @ expressly make the claim; and
+subpoena that: ii) describe the nature of the withheld documents, communications,
+i) fails to allow a reasonable time to comply; or
+if) requires a person who is neither a party nor a party's officer to travel tangible things in a manner that, without revealing information itself privileged or protected, will
+more than 100 miles from where that person resides, is employed, or regularly transacts business in cnable the parties to assess the claim.
+person — except that, subject to Rule 45(0EI, the person may be commanded to attend a (B) Information Produced. If infosmation produced in response 10 a subpoena is
+trial by traveling from any such place within the state where the trial is held; subject to a claim of privilege or of protection as trial-preparation material, the person making the
+(iif) requires disclosure of privileged or other protected matter, if no claim may notify any party that received the information of the claim snd the basis for it. Afler
+exception or waiver applies; or ‘being notified, a party must promptly return, sequester, or destroy the specified information and
+& subjects & person to undue burden. any copies it hes; must 710t usc or disclose the information until the claim is resolved; must take
+(B) When Permitted, To protect a person subject to or affected by & subpoena, the reasonable steps to retrieve the information if the party disclosed it before being notified; and may
+issuing court may, on motion, quash or modity the Sabpocns if it requires; promptly present the information to the court under seat for 8 determination of the cleim. The
+(i) disclosing a trade secret or other confidential research, development, person who produced the information must prescrve the information until the cleim is resolved.
+or commercig] information;
+(ii) disclosing an unretained expert's opinion of information that does o Contempt, .
+not ie Issuing court sy hold in contempt a person who, having been served, fails without adequate
+describe specific ocourrences in dispute and results from the expert's study that was not requested by excuse to obey the subpoena. A nonparty’s failure to obey must be excused if the subpoena
+a party; of . purports to require the nonparty to attend or produce at a plece outside the limits of Rule
+(iii) 8 person who is neither & pty nor & pasty’s officer to incur SBA.
+substantial expense to travel more than 100 miles to attend trial i .
+o Specifying Conditions as an Alternative. In the circumstances described in
+Rule 45(c)(3)(B), the court riay, instead of quasking or modifying a subpoena, order appearance or
+IT rT BpECILI ic i
+production under specified conditions if the serving party: .
+0) shows a substantial nied for the testimony or material that cannot be
+otherwise met without undue hardship; and .
+(ii) ensures that the subpoenaed person will be reasonably compensated.
 
 ［第 307 页］
 
-［第 307 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 307 页］
+
+DOCUMENT RIDER
+
+Pursuant to Fed. R. Civ. P. 45, Fed. R. Bankr. P. 2004 and the Court's February 11,
+2009 Order (“Order,” attached hereto as Exhibit A), Anton R. Valukas, Esq., the
+appointed Examiner for Lehman Brothers Holdings, Inc. and its affiliated debtors
+(“Debtors”), through counsel, hereby requests that you produce the documents
+described below for inspection and copying at the offices of Jenner & Block LLP, 919
+Third Avenue, New York, NY 10022-3908 on June 8, 2009 at 10:30 a.m.
+
+INSTRUCTIONS
+1. “Document” should be interpreted as broadly as permitted by the Federal Rules
+of Civil Procedure and includes all tangible things and electronically stored
+information. Any terms in these requests should likewise be interpreted as broadly as
+poossible. References to entities should be interpreted broadly to include the named
+entity and its affiliates, parents, subsidiaries, officers, directors, employees and agents.
+2. As directed by the Order, if you withhold any documents from the production
+based upon a claim of privilege, provide Examiner's counsel with a privilege log
+containing the information required under Fed. R. Bankr. P. 7026 within ten (10) days of
+service of the foregoing subpoena.
+REQUESTS
+
+1 All documents comprising Ernst & Young's fiscal year-end 2007 audit of Lehman
+Brothers Holdings, Inc. and any of its affiliates or subsidiaries (“LBHI").
+2. All documents comprising Ernst & Young's quarterly or interim work for the
+fiscal year-end 2008 audit of LBHI.
+3. All documents related to or comprising the methodology employed by Ernst &
+Young to mark to market, value or verify marks or valuations for LBHI assets during
+2007 and 2008.
+4, All documents related to or comprising the marks to market, value or verification
+of marks or valuations for LBHI assets during 2007 and 2008.
+1766014.1
 
 ［第 308 页］
 
-［第 308 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 308 页］
+
+By: /s/ Robert L. Byman
+Robert L. Byman
+JENNER & BLOCK LLP
+919 Third Avenue, 37th Floor
+New York, New York 10022-3908
+Telephone: (212) 891-1600
+Facsimile: (212) 891-1699
+330 North Wabash Avenue
+Chicago, Illinois 60611-7603
+Telephone: (312) 222-9350
+Facsimile: (312) 527-0484
+Attorneys for the Examiner
+2
+1766014.1
 
 ［第 309 页］
 
-［第 309 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 309 页］
+
+UNITED STATES BANKRUPTCY COURT
+SOUTHERN DISTRICT OF NEW YORK
+SU, ¥
+Inre Chapter 11 Case No.
+LEHMAN BROTHERS HOLDINGS INC. et dl, 08-13555 (IMP)
+Debtors. (Jointly Administered)
+SU ty
+ORDER GRANTING EXAMINER'S MOTION DIRECTING THE PRODUCTION OF
+DOCUMENTS AND AUTHORIZING THE EXAMINATIONS OF THE DEBTORS’
+CURRENT AND FORMER OFFICERS, DIRECTORS AND
+EMPLOYEES, AND OTHER PERSONS AND ENTITIES
+
+Upon the Motion of Anton R. Valukas (the "Examiner") for an Order Directing the
+Production of Documents and Authorizing the Examination of the Debtors’ Current and Former
+Officers, Directors and Employees, and Other Persons and Entities (the "Motion"; and the Court
+having reviewed the Motion and the exhibits submitted in support; and the Court being satisfied
+that adequate notice of the Motion has been provided in accordance with the procedures set forth in
+the order entered September 22, 2008 governing case management and administrative procedures
+[Docket # 2857 (i) to the Court; (ii) counsel for the Debtors; (iii) the U.S. Trustee; (iv) counsel for
+the Official Committee of Unsecured Creditors; (v) counsel for the Debtors’ postpetition lenders;
+(vi) the Securities and Exchange Committee; (vii) the Internal Revenue Service; (viii) the United
+States Attorney for the Southern District of New York; (ix) any person with a particularized
+interest in the subject matter of the Motion; and (x) all parties who have requested notice in these
+Chapter 11 Cases; and (xi) it appearing that no other or further notice of the Motion need be
+provided; and after due deliberation and sufficient cause appearing therefor; it is hereby
+ORDERED
+
+' Capitalized terms not otherwise defined shall have the meaning ascribed to them in the Motion.
 
 ［第 310 页］
 
-［第 310 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 310 页］
+
+1. The Motion is granted.
+
+2. The Examiner is authorized, pursuant to Bankruptcy Rule 2004, to issue such
+subpoenas as may be necessary to compel the production of documents and the testimony of
+Witnesses in connection with the Examiner's Investigation.
+
+3. The Examiner shall serve each subpoena and a copy of this Order on the target of
+the subpoena, with copy to (i) the Debtor; (ii) the Securities and Exchange Commission; (iii) the
+Internal Revenue Service; (iii) the SIPA Trustee; and (iv) the United States Attorney for the
+Southern District of New York.
+
+4, As directed in § 8 of the Examiner Order, the Examiner shall cooperate fully with
+any government agencies including, but not limited to, any Federal, state or local government
+agency that currently or in the future may be investigating the Debtors, their management or their
+financial condition, and the Examiner shall use best efforts to coordinate with such agencies in
+order to avoid unnecessary interference with, or duplication of, any investigations conducted by
+such agencies. The Examiner will follow a protocol to be established with the governmental
+agencies for the sharing of information to the extent that such sharing benefits the Debtors’ estates,
+and such sharing of information shall be subject to appropriate conditions to protect the Debtors’
+estates.
+
+5. The Examiner shall file with the Court an affidavit or declaration of service
+for each subpoena he serves.
+
+6. Unless otherwise agreed to by the Examiner, Witnesses shall have ten (10) days
+from the service of a subpoena to either (1) produce to the Examiner all responsive documents
+requested in the Examiner's subpoena, except as provided in § 7 infra; or (2) file with the
+Bankruptcy Court an objection or response to the subpoena, with a hearing promptly scheduled.
+
+2
 
 ［第 311 页］
 
-［第 311 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 311 页］
+
+7. Unless otherwise agreed by the Examiner, if a Witness withholds any documents
+from the production based upon a claim of privilege, such Witness is directed to provide counsel
+for the Examiner with a privilege log, containing the information required under Bankruptcy Rule
+7026, within ten (10) days of the service of a subpoena upon the Witnesses.
+
+8. The Witness is directed to submit to oral examination upon reasonable notice and,
+absent other agreement with the Examiner, in no event more than fifteen (15) days from the date of
+service of a deposition subpoena upon such Witness
+
+9. Nothing herein limits the substantive rights of Witnesses or other parties
+under applicable law to object to or oppose any subpoena the Examiner may serve.
+
+10. This Court shall retain jurisdiction to resolve any disputes arising or related to this
+Order including any discovery disputes that may arise between or among the parties and to
+interpret, implement and enforce the provisions of this Order.
+
+11. In accordance with Bankruptcy Rules 2004 and 9016, the Clerk of this Court
+shall issue subpoenas, signed but otherwise in blank, as requested by the Examiner.
+
+12. This Order is without prejudice to the Trustee's right to file further motions seeking
+additional documents and testimony pursuant to Bankruptcy Rule 2004(a) or any other applicable
+law.
+
+Dated: February 11, 2009
+New York, New York
+/s/ James M. Peck
+UNITED STATES BANKRUPTCY JUDGE
+3
 
 ［第 312 页］
 
-［第 312 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 312 页］
+
+Champion Courier Tracking - Order Status Page | of 1
+Your Order Status Is Shown Below
+Date: May 29 2009 Time: 12:01
+Signature: M HARVARD Order Entered: May 29 2009
+PICKUP INFORMATION DELIVERY INFORMATION
+Name ENNER & BLOCK Name
+Address Address TIMES SQUARE PLZ
+Suite/Floor/Dept. Suite/Floor/Dept.
+Attn: Attn:
+City/State/Zip City/State/Zip
+I PLEASE BE ON TIME .
+Instructions Instructions
+SERVICE INFORMATION
+Weight 0 Jrieces o________
+Service Type Requested By
+CLIENT MATTER#
+|]
+Print Page
+http://www.championcourierny.com/OrderMgmt/TrackResults.asp?id=573663 5/29/2009
 
 ［第 313 页］
 
-［第 313 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 313 页］
+
+Champion Courier Tracking - Order Status Page 1 of 1
+Your Order Status Is Shown Below
+[ Control Number: 01934960 | Order Status: Delivered |
+Date: May 29 2009 Time: 11:28
+Signature: MIRNA RUPERTO Order Entered: May 29 2009
+PICKUP INFORMATION DELIVERY INFORMATION
+Name Name
+Address Address
+Suite/Floor/Dept. Suite/Floor/Dept.
+Attn: Attn:
+City/State/Zip City/State/Zip
+I PLEASE BE ON TIME
+Instructions Instructions
+SERVICE INFORMATION
+Weight o ______________ lNpieces 0
+Service Type Requested By
+CLIENT MATTER#
+|
+Print Page
+http://www.championcourierny.com/OrderMgmt/TrackResults.asp?id=573661 5/29/2009
 
 ［第 314 页］
 
-［第 314 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 314 页］
+
+B254 (Form 254 ~ Subpoena for Rule 2004 Examination) (12/07)
+PROOF OF SERVICE
+DATE PLACE —
+SERVED LY oq EAR. 0 A S [ime SK
+SERVED ON (PRINT NAME) MANNER OF SERVICE
+SERVED BY (PRINT NAME) TITLE
+Daouba TALL | NMESEREER
+DECLARATION OF SERVER
+ee ——————————————— + —————————————————————— —————————
+1 declare under penalty of perjury under the laws of the United States of America thatthe foregoing information contained in the Proof
+of Service is true and correct.
+Executed on A Y, J
+DA SI OF VER
+| 3/ —
+ADDRESS OF SERVER
+remot ——eeeeeteeeeAeA Ae eee ts eee eee
+Rule 43, Federal Rules of Civil Procedure, Subdivisions (c), (d), and (¢), as amended on December 1, 2007, made applicable in cases under the Bankruptcy Code by Rule 5016,
+Federal Rules of Bankruptcy Procedure:
+(c) Protecting a Person Subject to a Subpoens. (d) Duties in nding to a Subpoena.
+© “Q) hvoidng Burden or Expense; Sanctions. A party or attomey yesponsible for ud 0) Pracbeing Bocuments or Electronically Stored Information. These procedures apply
+issuing end serving a subpoena must take reasonable steps to avoid imposing unduo nor to producing documents or electronically stored information:
+expense on & person subject to the subpoena. The issuing court must enforce this duty and impose an (A) Documents. A persan responding to a subpoena 10 produce documents must
+‘appropriate sanction — which may include lost carnings and reasonable attorncy’s foes — on a party produce them as they ere kept In the ordinary course of business or must organize and label them
+or attorney who fails to om. to correspond to the categories in the domand.
+hr) Command to Materials or Pesmit Inspection. (B) Form for Producing Electronically Stored Information Not Specified. Ifa
+(A) Appearance Not Required. A person commanded to produce documents, subpoens does not specify & form for Trodcing electronically stored information, the person
+electronically stored information, or tangible things, or to permit the inspection of premises, need not responding must produce it in a form or forms in which it is ordinarily maintained or in a
+1 in person at the place of production or inspection unless also commanded to appear for 2 reasonably useble form or forms.
+Fepotition, ‘hearing, or trial. (C) Electronically Stored Information Produced in Only One Form, The person
+(B) Objections. A person commanded to produce documents or tangibls things or responding need not the same olcctronically sored information in more than one form.
+to permit inspection may serve on the party of attomey designated in the subpoena written , Tnacceasible Electronically Stored Information. The person responding
+objection to , copying, testing or sapling any orall of the materials or to inspecting the noed not provide duscovery of electronically stored information from sources that the person
+a ao prong chsremicaly stored mformation in the form or forms requested. identifies as not reasonably accessible because of undue burden or cost. On motion to compel
+‘objection must be served before the carlicr of the time specified for compliance or 14 days after the discovery ar for protective order, the person responding must show that the information is not
+Tubpocna is served. If an objection is made, the following rules apply: . reasonably access Te becatise of udu burden or cost. Lt that showing js made, he court may
+0) At any time, on motios bo the sommtaded person, he serving party nonetheless order discovery from such sources if the requesting party shows good cause,
+‘may move the issuing court for an order compelling production or inspect considering the limitations of Rule 26(b)(2)(C). The court may spocify conditions for the
+(if) These acts may be required only as directed in the order, and the discovery,
+. onder must protect a who is neither 2 party nor a party's officer from significant expense (2) Claiming Privilege or Protection.
+resulting from compliance. ry) Information Withheld. A person withholding subpoenaed information
+(3) Quashing or Modifying a Subpoena. . | under a claim that itis privileged ‘or subject to protection as trial-preparation material must:
+“ When Required, On timely motion, the issuing court must quash or modify a & expressly make the claim; and
+subpoena that: ii) describe the nature of the withheld documents, communications,
+freien h bv 4 party's officer to travel pi ible things i that, without revealing information itself privileged tected, will
+‘Tequires & perso: is a party nor a party's officer to travel le in a manner that, without revealing information i rivileged or wil
+more than 100 mills from whe "Hat pers rouides, 1s cmplayed, or regularly treasacts business in Coable the pasties t assess the Claim, iy prviies pre
+person — except that, subject to Rule HEXEN, the person may ‘be commanded to attend 2 | (B) Information Produced. If information produced in Jesponse to 3 subpoena is
+trial by traveling from any such place wit state where the trial Is held; subject to a claim of privilege or "of protection 25 trial-preparztion material, the person making the
+(iii) requires disclosure of privileged or other protected matter, if no claim may notify any party ved the information of the claim and the basis for it, After
+‘exception or waiver applies; or being notified, k party must promptly retum, sequester, or destroy the specified information and
+\Y) subjects & person to undus burden. any copies it hax; must not use or disclose the information until KA claim is resolved; must take
+(B) When Permitted. -Toprotect 5 subject to or affected by a subpoena, the ‘reasonshle steps to retylevs the information if the party disclosed it before being notified; and may
+issuing court may, on motion, quash or fy the Sobpocss if requires: promptly present the information to the court under seal for 8 determination of the claim. The
+Li (i) disclosing a trads secret or other confidential research, development, person who produced the information must prescrve the information until the claim is resolved.
+or comuncreial information;
+if) disclosi unretained expert's opinion ar information that does ¢) Contempt.
+not @ disclosing ta hs OA isvuing court may hold in contempt a person who, baving been povedy fails without adequate
+describe specific occurrences in dirpute and results from the expert's study that was nat requested by cxouse to Gboy the Mpoena. A nonpasty’s flue 1o obey must be xt if the subpoena
+a party; of y | Fmperato require Lh norpany 1 atead of produce ats place oud hell of ule
+(iif) a person who is neither » party nor party's officer to incur 45(CX3NAXi]
+substantia] expense to travel more than 100 miles to a! trial j J
+o Specifying Conditions as an Altemative. In the circumstances described In
+Rule 45(c)(3)(B), the court may, instead of quashing or modifying a subpoena, order appearance or
+production under specified conditions if the serving party: i )
+9] shows 8 substantial need for the testimony or material that cannot be
+otherwise met without undue hip; and
+(if) ensures thst the subpoenacd person will be reasonably compensated.
 
 ［第 315 页］
 
-［第 315 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 315 页］
+
+B254 (Form 254 — Subpoena for Rule 2004 Examination} (12/07)
+PROOF OF SERVICE
+~~
+SERVED /> Latham 7 wa Flips S585 - bo
+SERVED ON (PRINT NAME) MANNER OF SERVICE
+. : 4 .
+£m
+(1 bnE Bulzrto HAND DENVER
+SERVED BY (PRINT NAME) TITLE
+AOYUDY TALL MESSELGELR
+DECLARATION OF SERVER
+ee —————————————— rn
+I declare under penalty of perjury under the laws of the United States of America that the foregoing information contained in the Proof
+of Service is true and correct. d ’
+Executed on Z ZL Z/, 7 7
+ATE A 'OF SERVER
+ADDRESS OF SERVER 7
+emo —e——————————————————— ee —— Oe
+Rule 45, Federal Rules of Civil Procedure, Subdivisions (c), (d), and (¢}, as amended on December 1, 2007, made applicable in cases under the Bankruptcy Cods by Rule 9016,
+Federal Rules of Bankruptcy Procedure:
+©) Protecting 8 Person Subject to 3 Subpoens. ) Duties in Responding to a Subpoena.
+©@ “vain ii Burden or Expense; Sanctions. A party or atiomey fesponsible for @ 0) nent Bocaments or Electronically Stored Information. These procedures apply
+' issuing and setving a subpoens must take reasonable sips to avoid imposing undus or 10 producing documents or electronically stored information:
+expense on's person qubject to the subpoena. The issuing court must enforce this duty and impose en (A) Documents, A person responding to a subpoena lo produce documents must
+appropriate sanction — which may include lost eaminge and reasonable attorney's fees — on 8 party produce them ss they are kept in the ordinary course of business or must organize and label ther
+or attorney who fails 10 comply. to correspond to the categories in the demand.
+% Command to Prodice Materials or Permit Inspection. (8) Form for Producing Electronically Stared Information Not Specified. Ifa
+(A) Appenrance Not Required. A person commanded to produce documents, subpoenas docs not specify a form: for producing electronically stored information, the person
+electronically stored information, or tangible things, or to permit the inspection of premises, need not responding must produce it in & form or forms in which it is ordinarily maintained or in a
+1) in person at the place of production of inspection unless also commanded to appear for 8 reasonably ussble form or forms.
+position, bearing, or trial, (C) Electronically Stored Information Produced ia Only One Form. The person
+. j (B) Objections. A. person commanded to produce documents or tangible things or responding mead Hate Be ole HO Toe rapon spony
+to permit inspection may serve on the party or atiomey designated In the subpoena a writen _ {D) Inaccessiblo Electronically Stored Information. The person responding
+objection to inspecti , copying, testing of sampling say of ll of the mat s ox to Inspecting the nocd not provide discovery of electronically sored information fom sources that the person
+premises — or Bs producing clestramicaily sored infarmation in the form or forms requested. identifies as not reasonsbly accessible because of undue burden or cost. On motion to compel
+objection must be served before the earlier of the time specified for compliance or 14 days after the discov or for a protective order, the person responding must sha (hat the information 1s ot
+‘ subpocna is served. If #0 objection is made, tbe following rules apply: | reasonably access] te because of undue burden or cost. 1f that showing is made, the court may
+[U At any time, on notice to the commanded person, the serving party nonetheless order discovery from such sources if the requesting party shows good cause,
+may move the issuing court for an order campelling production or inspect considering the limitations of Rule 26(b)(2)C). The court may specify conditions for the
+(if) These acts may be required only as directed in the order, and the discovery, B .
+R order rust protect 8 penn who is neither a party nor 2 party's officer from significant expense (2) Claiming Privilege or Protection.
+resulting from compliance. Ii) Information Withheld, A person withholding subpocnacd information
+(3) Quashing or Modifying a Subpoena. i N under a claim that it is privileged or subject to protection as trial-preparation material must:
+01 When Required. On timely motion, the issuing court must quash or modify a [R expressly make the claim; and
+subpoena that: it) describe the nature of the withheld documents, communications,
+pets A Be acount sor a party's officer to rave] wogbl tings in 8 manner tht, without revealing information wel privileged oe protected, wil
+a ‘who 13 nei a nora 3 cer Vol na eT wil revealing information nvil or prof ‘wil
+more than 100 miles from wi ¥ that person resides, is employed, or regularly transacts business in cnsble the pasties to gssess the claim, y P ls
+person — except that, subjoct to Rule EEE, the person ay ‘be commanded to attend 2 (B) Information Produced. If information produced in response to a subpoena is
+trial by traveling from any such place wi state where the trial is held; subject to a claim of privilege or of protection a3 trial-preparation material, the person making the
+(if) requires disclosure of privileged or other protected matter, if uo claim may notify any party that received the information of the claim and the basi for it. After
+exception or waiver applies; or being notified, pasty must promptly return, sequester, or destroy the specified information and
+(iv) subjects & person to undue burden. any copies it Bas; must not use or disclose the information until the claim is resolved; must take
+(B) When Permitted. To protect a subject to or affected by & subpoena, the reasonable steps to retrieve the information if the party disclosed it before being notified; and may
+issuing court may, on motion, quash or modify the bps if it Joquires; promptly present the information to the court under sal for a determination of the claim. The
+J int () disclosing a trade secret ot other confidential research, development, person who produced the information must preserve the information until the claim is resolved.
+commercial information;
+: o . i (i) disclosing an unretained expert's opinion or information that does {¢) Guntempt.
+not Issuing court may hold in contenpt a person who, having been joey fails without adequate
+describe specific occurrences in dispute and results from the expert's study that was not requested by excuse bey the mbpoens. A songays failure 10 obey must be ex: if the Bibpocna
+a party; of a equire the nonparty to stead of produce at s place outside the limits of Rule
+(iif) a person who is neither a pasty nor a partys officer to incur 2] ERGY,
+substantial expense to travel more than 100 miles to at ria] B
+io Specifying Conditions as an Alternative, In the circumstances described In
+Rule 45(c)(3)(B), the cout may, instead of quashing or modifying a subpoena, order appearance or
+production under specified conditions if the serving purty: .
+[heioky substantial need for the testimony or materia) that cannot bo
+otherwise met without undue s and i
+(if) ensures that the subpoenaed person will be reasonably compensated.
 
 ［第 316 页］
 
@@ -14210,7 +14680,9 @@ Attorneys for the Examiner
 
 ［第 320 页］
 
-［第 320 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 320 页］
+
+EXHIBIT A
 
 ［第 321 页］
 
@@ -14599,7 +15071,53 @@ New York, New York
 
 ［第 332 页］
 
-［第 332 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 332 页］
+
+COURT UNITED STATES BANKRUPTCY COURT
+COUNTY OF SOUTHERN DISTRICT OF NEW YORK
+IN RE LEHMAN BROTHERS HOLDINGS, INC., ET AL., Index No. 08-13555 (JMP)
+DEBTOR
+p25:0:0;7:8:0.8
+HEXKN AFFIDAVIT OF
+SERVICE OF SUBPOENA
+FOR RULE 2004 EXAMINATION
+I. ............
+STATE OF NEW YORK, COUNTY OF NEW YORK SS: The undersigned, being duly sworn, deposes and says; deponent is not
+party herein, is over 18 years of age and resides at EAST MEADOW, NEW YORK
+That on 8/10/09 at 12:46 PM. at 30 ROCKEFELLER PLAZA, NEW YORK, NEW YORK
+deponent served the within subpoena on LAZARD LTD. witness therein namec
+FOR RULE 2004 EXAMINATION
+MOIVIDUAL by delivering a true copy to said witness personally; deponent knew the person so served to be the witness described in sai
++O subpoena.
+CORPORATION a DOMESTIC corporation, by delivering thereat a true copy to STEVEN PEARL
+. ® personally, deponent knew said corporation so served to be the corporation witness and knew said individual to b
+MANAGING AGENT thereof.
+sumaste ace person by delivering thereat a true copy to a person of suitable ag
+» O and discretion. Said premises is witness’—actual place of business—dwelling place—usual place of abode-—within the state
+AFFuNG To 0008. ETC. by affixing a true copy to the door of said premises, which is witness’—actual place of business—dwelling place—usual plac
+a. of abode—within the state. Deponent was unable, with due diligence to find witness or a person of suitable age and discretio
+thereat, having called there
+prey Within 20 days of such delivery or affixing, deponent enclosed a copy of same in a postpaid envelope properly addressed to witnes
+USEWITHIOR4 at witness’ last known residence, at and deposite
+s [J said envelope in an official depository under the exclusive care and custody of the U.S. Postal Service within New York State.
+HAILING TO Within 20 days of such delivery or affixing, deponent enclosed a copy of same in a first class postpaid envelope proper;
+vsewmiaons addressed to witness at witness’ actual place of business, at
+ss [1 in an official depository under the exclusive care and custody of the U.S. Postai Service within New York State. The envelope bor
+the legend “Personal and Confidential” and did not indicate on the outside thereof, by return address or otherwise, that th
+communication was from an attorney or concerned an action against the witness.
+fal X Male X White Skin X Black Hair 00 White Hair [J 14-20 Yrs. J Under5" [J Under 100 Lbs.
+1.2,083 — Female [J Black Skin 0 Brown Hair J Balding 0 21-35 Yrs. [J 5°07-5'3" [J 100-130 Lbs.
+x O Yellow Skin (J Blonde Hair (J Mustache 36-50 Yrs. (0 5'47-5'8" [J 131-160 Lbs.
+{J Brown Skin 2 Gray Hair O Beard 0 51-65 Yrs. ® 597-60" [X 161-200 Lbs.
+{J Red Skin O Red Hair 0 Glasses 0 Over65 Yrs. [J Over 6’ 03 Over 200 Lbs.
+Other identifying features:
+At the time of said service, deponent paid (tendered) in advance $ the authorized traveling expenses and one day’s witness fee
+Gabriela Galindo Te
+Sworn to before me on Notary Fublic State of New York Se
+No. 01GA6187899 PRR Nae we Fh TURE
+8/10/09 Q d in Queens County JUAN D. AGUIRR ~
+( Compisia pirgs 610272012 )
+cns{No. 843839
 
 ［第 333 页］
 
@@ -14891,7 +15409,55 @@ New York, New York
 
 ［第 341 页］
 
-［第 341 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 341 页］
+
+[J © 1988 JULIUS BLUMBERG. INC.,
+PUBLISHER, NYC 10013
+COURT UNITED STATES BANKRUPTCY COURT
+COUNTY OF SOUTHERN DISTRICT OF NEW YORK CASE
+IN RE LEHMAN BROTHERS HOLDINGS, INC. ET AL., YogeX No. 08-13555
+DEBTOR.
+Plaintiff(s)
+against AFFIDAVIT OF
+SERVICE OF SUBPOENA
+FOR RULE 2004 EXAMINATION
+Defendant(s)
+STATE OF NEW YORK, COUNTY OF ~~ NEW YORK SS: The undersigned, being duly sworn, deposes and says; deponent is not a
+party herein, is over 18 years of age and resides at EAST MEADOW, NEW YORK
+Thaton 8/11/09 at 4:40 PM. ar 767 5TH AVENUE, NEW YORK, NEW YORK
+deponent served the within subpoena on PERELLA WEINBERG PARTNERS LP witness therein named,
+FOR RULE 2004 EXAMINATION ACCEPTED BY CHRIS MEEKINS
+WOIVIDUAL by delivering a true copy to said witness personally; deponent knew the person so served to be the witness described in said
+» &® subpoena.
+CORPORATION a corporation, by delivering thereat a true copy to
+. O personally, deponent knew said corporation so served to be the corporation witness and knew said individual to be
+thereof.
+surmaste act reason by delivering thereat a true copy to a person of suitable age
+» Od and discretion. Said premises is witness’—actual place of business—dwelling place-—usual place of abode-—within the state.
+AsFING 0 0008, ETC. by affixing a true copy to the door of said premises, which is witness’ —actual place of business—dwelling place—usual place
+« Od of abode—within the state. Deponent was unable, with due diligence to find witness or a person of suitable age and discretion
+thereat, having called there
+pri ld Within 20 days of such delivery or affixing, deponent enclosed a copy of same in a postpaid envelope properly addressed to witness
+USEWITHIOR4 at witness’ last known residence, at and deposited
+as [J said envelope in an official depository under the exclusive care and custody of the U.S. Postal Service within New York State.
+MAILING TO Within 20 days of such delivery or affixing, deponent enclosed a copy of same in a first class postpaid envelope properly
+usewmiaons addressed to witness at witness’ actual place of business, at
+ss. OJ in an official depository under the exclusive care and custody of the U.S. Postai Service within New York State. The envelope bore
+the legend “Personal and Confidential” and did not indicate on the outside thereof, by return address or otherwise, that the
+communication was from an attorney or concerned an action against the witness.
+ral X Male X White Skin OU Black Hair 00 White Hair [J 14-20 Yrs. OO Under §’ 0 Under 100 Lbs.
+1.2.0R3 _ Female [J Black Skin XI Brown Hair [J Balding 0 21-35Yrs. OO 507-53" [J 100-130 Lbs.
+x 0 Yellow Skin [J Blonde Hair [J Mustache 36-50 Yrs. [J 5°4"-5'8" [J 131-160 Lbs.
+0 Brown Skin [3 Gray Hair O Beard O 51-65Yrs. (X 597-60" & 161-200 Lbs.
+J Red Skin O Red Hair O Glasses O Over 65 Yrs. OJ Over 6’ OJ Over 200 Lbs.
+Other identifying features:
+At the time of said service, deponent paid (tendered) in advance $ the authorized traveling expenses and one day's witness fee.
+Gabriela Galindo . 2
+Notary Public, State of New York -
+Sworn to before me on No. 61GA6187899 BENE A GRR VR
+8/12/09 Comin Lin Queens Comme) 2 JUANB. AGUIRRE
+(=o oo pad rd
+g License No. 343839
 
 ［第 342 页］
 
@@ -15232,19 +15798,181 @@ New York, New York
 
 ［第 351 页］
 
-［第 351 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 351 页］
+
+Exhibit 5.5
 
 ［第 352 页］
 
-［第 352 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 352 页］
+
+5
+
+STRATEGIC
+LEGAL SOLUTIONS
+
+April 7,2009
+
+Robert Byman, Esq.
+
+Jenner & Block LLP
+
+919 Third Avenue
+
+New York, NY 10022
+
+Dear Bob:
+
+Thank you for contacting Strategic Legal Resources, Inc., d/b/a Strategic Legal Solutions
+(“SLS”). We look forward to providing you with attorneys, “J.D. paralegals” and paralegals
+(collectively the "Professional" or "Professionals") on a temporary basis. This agreement (the
+“Agreement”) is intended to set forth the terms and conditions that will apply in connection with
+the utilization of SLS’s services.
+
+1. SLS Services. SLS is dedicated to providing you with exceptional legal
+professionals to satisfy both your short and long-term legal needs. We will work with you to
+analyze your specific staffing requirements and will forward to you upon request a selection of
+resumes of pre-screened Professionals who we believe are best suited for the specific
+assignment. Of course, the final selection of each Professional is always made by you and can
+be changed by you at any time. In addition to providing you with exceptional legal talent on an
+as-needed basis, SLS decreases your overhead costs by placing all Professionals on our payroll
+and handling all payroll deductions and other functions.
+
+2. Engagement and Compensation. In order to ensure accuracy and to keep you
+informed on a current basis on the work performed by a Professional on your behalf, our
+Professionals will provide us with complete weekly time records that are signed by an authorized
+representative of your firm or company overseeing the project. We will invoice you weekly
+based on such time records and you make payments to SLS directly. We pay the Professional
+working for you each week and handle all payroll tax withholdings. We will invoice you at
+agreed upon rates (which you agree not to discuss with the Professional) with respect to the
+hours that any Professional performs work for you, and we will confirm the exact rates with you
+prior to the commencement of any assignment in a confirmation letter which will become an
+integral part of this Agreement. The agreed upon hourly rate that you will pay to SLS for a
+Professional’s engagement includes such Professional’s compensation as well as our placement
+and servicing fee. If you desire to raise the compensation of a Professional, you should contact
+us in order that we can revise our hourly rate to reflect a proportionate increase in the
+compensation we pay the Professional. You will not make any payments directly to the
+Professional other than reimbursement for any out-of-pocket expenses incurred by the
+Professional on your behalf. You have the absolute right without any input from or explanation
+to SLS to terminate the engagement of a Professional at any time without cause (subject, of
+course, to any applicable local, state and federal laws).
+
+500 Fifth Avenue, Suite 2520 New York, New York 10110 t: 212.944.9112 f: 212.944.8448
+www.strategiclegal.com
 
 ［第 353 页］
 
-［第 353 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 353 页］
+
+5
+STRATEGIC
+LEGAL SOLUTIONS
+
+You and SLS acknowledge that, from time to time based on market conditions, we may
+need to adjust our agreed upon rates in order to retain the Professionals working on the project.
+This is desirable in order to maintain continuity and the highest levels of efficiency, and to
+capitalize on institutional knowledge the Professionals will have gained over the course of the
+review. Any increase in the agreed upon rates will be subject to prior written approval by you,
+and will include a 21% mark-up, which will cover SLS’s administrative costs and will not
+include any additional profit. In such event, SLS shall provide you with at least thirty (30) days
+prior written notice of such proposed rate adjustment in order to provide you the opportunity to
+notify any appropriate parties, as necessary, and elect whether to continue our arrangement.
+
+All invoices are due and payable within thirty (30) days of receipt thereof.
+
+3. Benefits Package. The principals of SLS are committed to providing you with highly
+qualified Professionals. Accordingly, we provide our Professionals with the following benefits
+package:
+
+a) all Professionals are eligible to receive unemployment insurance benefits;
+
+b) all Professionals are automatically covered under our workers’ compensation
+
+insurance policy;
+
+c) all Professionals are automatically covered for disability insurance benefits
+through the New York State Disability Fund, in the event an injury or illness is
+not covered by the workers’ compensation insurance;
+
+d) group health insurance coverage is made accessible to all Professionals as part of
+a group plan.
+
+Of course, SLS reserves the right to add to, subtract, modify or amend the foregoing benefits
+package at any time.
+
+4. Hiring a Professional. Should you wish to hire, on a full-time or part-time basis other
+than through SLS, a Professional that we have procured for you on a temporary basis, please let
+us know and we will make the necessary arrangements. In such an event, SLS shall be entitled
+to a placement fee equal to twenty-five percent (25%) of the Professional's first year compen-
+sation, including guaranteed or sign-on bonuses, in the case of attorneys and “J.D. paralegals”
+and twenty percent (20%) of the Professional’s first year compensation, including guaranteed or
+sign-on bonuses, in the case of paralegals (the "Release Fee").
+
+However, the Release Fee shall be reduced by the hours of work that SLS is fully compensated
+by you for the work of such Professional.
+
+For attorneys, the Release Fee is based on 960 hours, which is the equivalent of six
+months of work at forty hours per week. Thus, for example, if an attorney is engaged by you
+
+500 Fifth Avenue, Suite 2520 New York, New York 10110 t: 212.944.9112 f: 212.944.8448
+www.strategiclegal.com
 
 ［第 354 页］
 
-［第 354 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 354 页］
+
+5
+STRATEGIC
+LEGAL SOLUTIONS
+through SLS for 432 hours prior to the offer and acceptance of an offer of employment by you,
+there will be a Release Fee of 55% of the placement fee of 25% of the Professional’s first year
+compensation. (432 divided by 960 equals 45%, which means 45% of the Release Fee has been
+worked off.)
+
+For “J.D. paralegals”, the Release Fee is based on 720 hours, which is the equivalent of
+4-1/2 months of work at forty hours per week. Thus, for example, if a “J.D. paralegal” is
+engaged by you through SLS for 468 hours prior to the offer and acceptance of an offer of
+employment by you, there will be a Release Fee of 35% of the placement fee of 25% of the
+Professional’s first year compensation. (468 divided by 720 equals 65%, which means 65% of
+the Release Fee has been worked off.)
+
+For paralegals, the Release Fee is based on 480 hours, which is the equivalent of 3
+months of work at forty hours per week. Thus, for example, if a paralegal is engaged by you
+through SLS for 144 hours prior to the offer and acceptance of an offer of employment by you,
+there will be a Release Fee of 70% of the placement fee of 20% of the Professional’s first year
+compensation. (144 divided by 480 equals 30%, which means 30% of the Release Fee has been
+worked off.)
+
+Upon our receipt of the full Release Fee along with any other outstanding sums, you shall
+be released from any other compensation arrangements we made with you with regard to that
+particular Professional. If, however, you hire, use or enter into a relationship with a Professional
+on any basis (directly or indirectly) other than through SLS or by paying the Release Fee as set
+forth above, SLS shall be entitled to the previously agreed upon or quoted rate for each hour,
+day, week or month (as the case may be) that services are rendered or time is expended for or on
+your behalf or under your direction by a Professional.
+
+As consideration for the services that SLS has and will provide to you, you agree that if
+you wish to engage or hire a Professional referred to you, directly or indirectly, by SLS on either
+a temporary or permanent basis within one year of the date of referral (whether or not you
+engaged the Professional at that time), or within one year of the date on which the Professional
+last performed services for you, whichever is later, that Professional must be engaged through
+SLS with our consent and pursuant to the terms of this Agreement.
+
+5. No Supervision. SLS is a placement agency whose business is to meet your needs by
+procuring for you high quality attorneys and paralegals on a temporary or permanent basis. The
+Professionals referred by SLS to you will work at your office or at any location you designate.
+SLS is not engaged in the practice of law. Accordingly, SLS will not control, direct or supervise
+the professional activities (including, without limitation, the work schedules) of any Professional
+we provide, and SLS does not participate in, has no knowledge of and assumes no responsibility
+for reviewing, examining or verifying either the assignment furnished by you or the work prod-
+uct produced by any Professionals that we provide.
+
+6. Miscellaneous. Should the provisions of paragraph four of this Agreement be
+breached or violated by you, it is agreed and understood that SLS shall be entitled to exercise any
+remedy available to it in law or in equity, as well as to obtain from you outstanding fees plus
+
+500 Fifth Avenue, Suite 2520 New York, New York 10110 t: 212.944.9112 f: 212.944.8448
+www.strategiclegal.com
 
 ［第 355 页］
 
@@ -15257,7 +15985,49 @@ Date: 2009.04.28 13:12:41 -04'00'
 
 ［第 356 页］
 
-［第 356 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 356 页］
+
+5
+
+STRATEGIC
+
+LEGAL SOLUTIONS
+Robert Byman, Esq.
+Jenner & Block LLP
+919 Third Avenue
+New York, New York 10022
+Dear Bob:
+Reference is made to the letter agreement dated April 7, 2009 hereof (the “Agreement”) between
+Strategic Legal Resources, Inc., and you. This confirmation letter incorporates the terms and
+provisions of the Agreement by reference and supplements the Agreement to provide the specific
+terms of the engagement of our contract attorneys.
+The contract attorneys will begin their assignment on or about April 15, 2009. You agree to pay
+SLS at a rate of $43.50 per hour (regardless of the number of hours worked in a week) for this
+assignment, which you will pay to us within thirty (30) days of receipt by you of an invoice
+reflecting the number of hours worked by the contract attorneys on this assignment during the
+previous week.
+Nothing in this arrangement commits Jenner to any particular number of contract attorneys or
+any minimum number of persons or hours; Jenner is free to discontinue the services of any or all
+of the contract attorneys at any time.
+You have advised us that Jenner anticipates that it will soon need more manpower but wishes to
+start with approximately 20 contract attorneys, split between New York and Chicago) on
+Wednesday April 15; you will give us the names of the individuals you have selected from the
+group we have identified. We are confident that we will have a solid group of 30 contract
+attorneys (15 in New York and 15 in Chicago) ready to start the project by next week. The
+contracts attorneys will be admitted to a US bar and have electronic document review
+experience. We will continue to add attorneys with the same qualifications as the project grows.
+At this time, we understand that both projects will be housed at Jenner’s offices, but that this
+might change as the project continues. Per our proposal, we will provide space at no additional
+cost and computers for up to 25 attorneys on our premises.
+Notwithstanding anything else in this letter or the Agreement, SLS understands and agrees that
+Jenner will file an application with the court regarding the contract attorneys, that the application
+will disclose the rate charged by SLS for the contract attorneys, and that the application will be
+filed in the public record with the bankruptcy court.
+500 Fifth Avenue, Suite 2520 New York, New York 10110 t: 212.944.9112 f: 212.944.8448
+
+www.strategiclegal.com
+
+17555431
 
 ［第 357 页］
 
