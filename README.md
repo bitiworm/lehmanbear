@@ -2,6 +2,7 @@
 
 > 本仓库搜集 2008 年全球金融危机中 **雷曼兄弟（Lehman Brothers）** 与 **贝尔斯登（Bear Stearns）** 两宗标志性崩盘事件的原始公开材料，作为**小说 / 非虚构写作的基本素材**。
 > 每份材料均保留**原始 PDF（一手证据）** 与 **转换后的 Markdown（可检索文本层）** 两套，便于引用与检索。
+> 📦 **一键下载全部 33 个原始 PDF（≈41 MB）**：[GitHub Release v1.0](https://github.com/bitiworm/lehmanbear/releases/tag/v1.0)
 
 ---
 
