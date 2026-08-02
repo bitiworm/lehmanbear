@@ -31,7 +31,7 @@
 | 材料 | Markdown | 原始 PDF | 说明 |
 |------|----------|----------|------|
 | 邮件 4185 | `md/bear_stearns_email_4185_tannin_to_cioffi_2007-04-22.md` | `pdfs/bear_stearns_email_4185_tannin_to_cioffi_2007-04-22.pdf` | **Matthew Tannin → Ralph Cioffi（2007-04-22）**，含著名风险警示原文 |
-| 邮件 5388 | `md/bear_stearns_email_5388_cioffi_to_cummins_tannin_geissinger_2007-04-01.md` | `pdfs/bear_stearns_email_5388_cioffi_to_cummins_tannin_geissinger_2007-04-01.pdf` | Ralph Cioffi → Cummins / Tannin / Geissinger，关于 HGEL 股权交易（**该 PDF 为扫描件，Markdown 无正文，需另行 OCR**） |
+| 邮件 5388 | `md/bear_stearns_email_5388_cioffi_to_cummins_tannin_geissinger_2007-04-01.md` | `pdfs/bear_stearns_email_5388_cioffi_to_cummins_tannin_geissinger_2007-04-01.pdf` | Ralph Cioffi → Cummins / Tannin / Geissinger，关于 HGEL 股权交易（**扫描件，已用 tesseract.js OCR 转写出完整邮件链正文**，见 `rendered_5388_hi/` 高清渲染图） |
 | SEC 投诉 | `md/bear_stearns_sec_complaint_lr20625_2008.md` | `pdfs/bear_stearns_sec_complaint_lr20625_2008.pdf` | SEC 诉 Cioffi 与 Tannin 证券欺诈投诉全文（LR-20625，2008-06-19） |
 
 ---
@@ -57,9 +57,12 @@
 lehmanbear/
 ├── README.md                 # 本索引
 ├── convert.py                # PDF → Markdown 转换脚本（可复现）
+├── ocr_5388_run.js           # 5388 扫描件 OCR 脚本（tesseract.js）
 ├── pdfs/                     # 原始 PDF（一手证据）
 ├── md/                       # 转换后的 Markdown（可检索文本层）
 │   └── _conversion_log.json  # 转换日志（页数 / 文件大小 / 低文本页）
+├── rendered_5388_hi/         # 5388 扫描件高清渲染图（4× ≈288 DPI，供 OCR / 核对）
+├── ocr_5388/                 # 5388 OCR 逐页原始文本 + combined.txt
 └── logs/                     # 抓取日志（未纳入版本库）
 ```
 
@@ -70,7 +73,7 @@ lehmanbear/
 - 工具：`pypdf` 提取文本，低文本页用 `pdfplumber` 兜底；扫描页在 Markdown 中标注「疑似扫描图片 / 无可用文本」。
 - **雷曼第1–5卷（叙述正文）文本干净**，可直接引用；第6–9卷附录含大量原始 exhibit，部分为扫描图片（已标注）。
 - **贝尔斯登 4185 邮件**：源 PDF 文字层本身带 OCR 噪点（个别字母错认），大意完整可读。
-- **贝尔斯登 5388 邮件**：纯扫描件，无文本层；如需正文，请对 `pdfs/` 下对应 PDF 做 OCR（如 tesseract）。
+- **贝尔斯登 5388 邮件**：纯扫描件，无文本层；已用 **tesseract.js（Node/WASM，无需原生二进制）** 对 PyMuPDF 4× 渲染图做 OCR，转写出完整 7 封邮件链正文（含原始交易记录表），人工校正了明显识别错误（如 `io`→`to`、字母错认）。OCR 原始逐页文本存于 `ocr_5388/`，高清渲染图存于 `rendered_5388_hi/`。
 - 所有原始 PDF 均保留于 `pdfs/`，如需精确原文以 PDF 为准。
 
 ---

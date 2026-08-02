@@ -1,0 +1,35 @@
+From: Cioffi, Ralph (Exchange)
+Sent: Saturday, April 21, 2007 4:22 PM
+To: Cummins, Gerald (Exchange); Tannin, Matthew (Exchange); Geissinger, John (Exchange)
+Cec: Quental, Greg (Exchange); Mcgarrigal, Raymond (Exchange)
+Subject: RE: equity trades in hgel
+Ok let me clear up a couple of points regarding abx trades. Those trades where by we are just shorting ABX we have been doing
+2/3 ehgs and 1/3 hgs the reason for that is the leverage ratio between the two and that EHGS has more CDO's exposed to ABS.
+When we buy ABX we are going to buy it in the exact ratio that that specific ABX tranche is in EHGS and HGS when covering a
+short or doing a relative value trade ie. we have been buying 06-1 BBB- so we have been allocating that based upon the ratio of
+07-1BBB’s that we are short in each fund. As it relates to CDS we will always do those pro-rata because the underlying assets in
+EHGS and HGS are not overly exposed to Corp. credit. The bottom line is that when we hedge in EHGS and HGS with ABX we
+do it based upon ABS exposure and every other hedge is pro-rata. As it relates to equities it is true we don’t go long equities in
+EHGS but we can do long short trades or just short trades and those should be all pro-rata.
+In the instance where we do trades in SRP and not the other two funds it is because the strategies between the two are in many
+cases different. We sometimes frade in the same products but on some days we are doing trades in EHGS and HGS and not in
+SRP and vice versa. Many times it's a function of cash and WC requirements etc. It's hard to use a hard and fast rule because
+these are not mutual funds and each fund has its own peculiar risk mgmt issues. | wish we could be black and white and allocate
+everything we do pro-rata but it in the real world of managing hedge funds it's not possible.
+As it relates to correlation trades we have used that as a catch all phrase when SRP does a long CDO equity or BBB's for
+example and short components of the underlying CDQ. Those trades are not truly correlation trades they are more relative value
+short credit spread trades. We have been doing those trades in HGS since we started the fund and the same is true in EHGS.
+It sounds to me like we need to be just more diligent in writing up the allocation reasons more clearly. lll speak to everyone on
+Monday.
+Mr. Ralph Cioffi
+Senior Managing Director
+Bear Stearns Asset Management
+383 Madison Ave. NYC 10167
+212 272 3498
+rcioffi@bear.com
+
+-----Original Message-----
+
+From: Cummins, Gerald (Exchange)
+
+Confidential Treatment Requested by JPMorgan BSC-FCIC-e00482200

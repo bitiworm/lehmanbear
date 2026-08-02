@@ -1,0 +1,27 @@
+To: Mobasheri, Ardavan (Exchange)
+Subject: FW: equity trades in hgel
+Peter Hamptian
+Equity Research
+Bear Stearns Asset Management
+383 Madison Avenue
+New York, NY 10179
+(212) 272-5615
+From: Cummins, Gerald (Exchange)
+Sent: Friday, April 20, 2007 12:40 PM
+To: Tannin, Matthew (Exchange); Hamptian, Peter (Exchange)
+Cc: Bhargava, Piyush (Exchange); Geissinger, John (Exchange)
+Subject: equity trades in hgel
+T/D buy/Short Quantity Cost Sector SECURITY
+3/23/2007 buy 40,100 (129,122.00) Option ACCREDITED HOME LENDERS 10 1/19/08 PUT
+4/2/2007 short (34,000) 2,117,885.38 Stock MCGRAW-HILL COMPANIES INC
+4/2/2007 short (1,400) 935,396.67 Stock NVR INC
+4/10/2007 short (73,500) 7,604,641.95 Stock RETAIL HOLDRS TRUST
+4/10/2007 buy 53,000 (7,669,476.30) Stock SPDR TRUST SERIES 1
+4/11/2007 short (29,400) 1,678,699.60 Stock MGIC INVESTMENT CORP
+4/12/2007 short (49,000) 1,720,755.64 Stock GENERAL ELECTRIC CO
+4/12/2007 short (1,400) 936,660.85 Stock NVR INC
+4/13/2007 short (29,400) 1,581,604.64 Stock WACHOVIA CORP
+4/16/2007 short (24,500) 982,824.50 Stock WASHINGTON MUTUAL INC
+4/17/2007 short (12,000) 810,357.20 Stock MOODY'S INVESTORS SERV-EX DI
+4/18/2007 short (12,000) 801,800.13 Stock MOODY'S INVESTORS SERV-EX DI
+Confidential Treatment Requested by JPMorgan BSC-FCIC-e00482206

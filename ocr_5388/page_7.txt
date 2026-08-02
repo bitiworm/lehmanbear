@@ -1,0 +1,30 @@
+You're completely missing the purpose of the allocation procedures. The PPMs for HG, HGEL and SRP allow almost any
+investment - as such almost any investment could be appropriate. So as not to require explanations for non-prorata
+allocations across every single sub-set of High Grade portfolios, a mairix was created that showed which security types
+and/or trading strategies are allowable for each account in the current month. The matrix currently does not allow agliocations
+of equities to HGEL. Hence the inquiry.
+Possible answers are: We changed the policy and forgot to tell you on the first of the month as required. We can then decide
+if forgetting continues to be acceptable for HG. If the policy did change, it raises other issues. High Grade has existing
+positions. When will you recreate these positions in HGEL? For example, HG is still short Goldman at 200. The stocks ai
+220. Why wouldn't you short it in HGEL?
+Please provide a sensible answer to our inquiry. Thanks.
+From: Mobasheri, Ardavan (Exchange)
+Sent: Friday, April 20, 2007 1:00 PM
+To: Hamptian, Peter (Exchange); Cummins, Gerald (Exchange); Tannin, Matthew (Exchange); Geissinger, John (Exchange);
+Bhargava, Piyush (Exchange); Cioffi, Ralph (Exchange)
+Subject: RE: equity trades in hgel
+We are using them as general macro hedges. They are net short individual financial/housing names appropriate for our
+portfolio.
+Ardavan Mobasheri
+Managing Director
+Bear Stearns Asset Management
+383 Madison Avenue
+New York, NY 10179
+Tel: (212) 272-4962
+Fax:(917) 849-1871
+Cell:(917) 558-0935
+amobasheri@bear.com
+From: Hamptian, Peter (Exchange)
+Sent: Friday, April 20, 2007 12:49 PM
+
+Confidential Treatment Requested by JPMorgan BSC-FCIC-e00482205
