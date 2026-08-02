@@ -1,0 +1,221 @@
+[
+  {
+    "pdf": "bear_stearns_email_4185_tannin_to_cioffi_2007-04-22.pdf",
+    "md": "bear_stearns_email_4185_tannin_to_cioffi_2007-04-22.md",
+    "pages": 5,
+    "md_bytes": 12429,
+    "low_text_pages": []
+  },
+  {
+    "pdf": "bear_stearns_email_5388_cioffi_to_cummins_tannin_geissinger_2007-04-01.pdf",
+    "md": "bear_stearns_email_5388_cioffi_to_cummins_tannin_geissinger_2007-04-01.md",
+    "pages": 9,
+    "md_bytes": 2770,
+    "low_text_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "pdf": "bear_stearns_sec_complaint_lr20625_2008.pdf",
+    "md": "bear_stearns_sec_complaint_lr20625_2008.md",
+    "pages": 36,
+    "md_bytes": 62537,
+    "low_text_pages": []
+  },
+  {
+    "pdf": "lehman_house_hearing_valuks_2009.pdf",
+    "md": "lehman_house_hearing_valuks_2009.md",
+    "pages": 16,
+    "md_bytes": 37676,
+    "low_text_pages": []
+  },
+  {
+    "pdf": "lehman_valukas_vol1_intro_execsummary_risk.pdf",
+    "md": "lehman_valukas_vol1_intro_execsummary_risk.md",
+    "pages": 239,
+    "md_bytes": 515407,
+    "low_text_pages": [
+      2
+    ]
+  },
+  {
+    "pdf": "lehman_valukas_vol2_valuation_survival.pdf",
+    "md": "lehman_valukas_vol2_valuation_survival.md",
+    "pages": 541,
+    "md_bytes": 1075085,
+    "low_text_pages": [
+      2
+    ]
+  },
+  {
+    "pdf": "lehman_valukas_vol3_repo105.pdf",
+    "md": "lehman_valukas_vol3_repo105.md",
+    "pages": 336,
+    "md_bytes": 816226,
+    "low_text_pages": [
+      2
+    ]
+  },
+  {
+    "pdf": "lehman_valukas_vol4_lenders_govt.pdf",
+    "md": "lehman_valukas_vol4_lenders_govt.md",
+    "pages": 493,
+    "md_bytes": 1017354,
+    "low_text_pages": [
+      2
+    ]
+  },
+  {
+    "pdf": "lehman_valukas_vol5_avoidance_barclays.pdf",
+    "md": "lehman_valukas_vol5_avoidance_barclays.md",
+    "pages": 683,
+    "md_bytes": 1352534,
+    "low_text_pages": [
+      2
+    ]
+  },
+  {
+    "pdf": "lehman_valukas_vol6_appendix1.pdf",
+    "md": "lehman_valukas_vol6_appendix1.md",
+    "pages": 225,
+    "md_bytes": 390730,
+    "low_text_pages": []
+  },
+  {
+    "pdf": "lehman_valukas_vol7_appendices2-7.pdf",
+    "md": "lehman_valukas_vol7_appendices2-7.md",
+    "pages": 511,
+    "md_bytes": 810026,
+    "low_text_pages": [
+      157,
+      285,
+      292,
+      295,
+      304,
+      305,
+      306,
+      307,
+      308,
+      309,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      320,
+      332,
+      341,
+      351,
+      352,
+      353,
+      354,
+      356
+    ]
+  },
+  {
+    "pdf": "lehman_valukas_vol8_appendices8-22.pdf",
+    "md": "lehman_valukas_vol8_appendices8-22.md",
+    "pages": 487,
+    "md_bytes": 801855,
+    "low_text_pages": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      451,
+      452,
+      453,
+      454,
+      455,
+      456,
+      457,
+      458,
+      459,
+      460,
+      461,
+      462,
+      463,
+      464,
+      465,
+      466,
+      467,
+      468,
+      469,
+      470,
+      471,
+      472,
+      473,
+      474,
+      475,
+      476,
+      477,
+      478,
+      479,
+      480,
+      481,
+      482,
+      483,
+      484,
+      485,
+      486,
+      487
+    ]
+  },
+  {
+    "pdf": "lehman_valukas_vol9_appendices23-34.pdf",
+    "md": "lehman_valukas_vol9_appendices23-34.md",
+    "pages": 590,
+    "md_bytes": 2335888,
+    "low_text_pages": []
+  }
+]
