@@ -28,11 +28,35 @@
 ### B. 贝尔斯登 — Cioffi / Tannin 对冲基金崩盘邮件（最早一批次贷内部邮件）
 两只基金在 2007 年春明知恶化、对外仍称健康；SEC 起诉 + FCIC 存档放出大量私人 / 工作邮件，含那句著名的风险警示。
 
-| 材料 | Markdown | 原始 PDF | 说明 |
-|------|----------|----------|------|
-| 邮件 4185 | `md/bear_stearns_email_4185_tannin_to_cioffi_2007-04-22.md` | `pdfs/bear_stearns_email_4185_tannin_to_cioffi_2007-04-22.pdf` | **Matthew Tannin → Ralph Cioffi（2007-04-22）**，含著名风险警示原文 |
-| 邮件 5388 | `md/bear_stearns_email_5388_cioffi_to_cummins_tannin_geissinger_2007-04-01.md` | `pdfs/bear_stearns_email_5388_cioffi_to_cummins_tannin_geissinger_2007-04-01.pdf` | Ralph Cioffi → Cummins / Tannin / Geissinger，关于 HGEL 股权交易（**扫描件，已用 tesseract.js OCR 转写出完整邮件链正文**，见 `rendered_5388_hi/` 高清渲染图） |
-| SEC 投诉 | `md/bear_stearns_sec_complaint_lr20625_2008.md` | `pdfs/bear_stearns_sec_complaint_lr20625_2008.pdf` | SEC 诉 Cioffi 与 Tannin 证券欺诈投诉全文（LR-20625，2008-06-19） |
+> 全部 23 份均来自 Yale YPFS / FCIC 存档（`elischolar.library.yale.edu/ypfs-documents/<编号>/`，直连受 WAF 限制，经 Wayback 存档抓取）。括号内为 FCIC 存档编号。
+
+| FCIC# | 主题（简） | Markdown | 原始 PDF |
+|------|-----------|----------|----------|
+| 4183 | Crystal→Cioffi 等（SRP 二月回报） | `md/bear_stearns_crystal_to_cioffi.md` | `pdfs/bear_stearns_crystal_to_cioffi.pdf` |
+| 4184 | Tannin→Borg-Brenner | `md/bear_stearns_tannin_to_borg_brenner.md` | `pdfs/bear_stearns_tannin_to_borg_brenner.pdf` |
+| 4185 | **Tannin→Cioffi 风险警示（2007-04-22）** | `md/bear_stearns_email_4185_tannin_to_cioffi_2007-04-22.md` | `pdfs/bear_stearns_email_4185_tannin_to_cioffi_2007-04-22.pdf` |
+| 4186 | Tannin→Chavanne (MEAG) | `md/bear_stearns_tannin_to_chavanne_meag.md` | `pdfs/bear_stearns_tannin_to_chavanne_meag.pdf` |
+| 4187 | Tannin→Van Solkema | `md/bear_stearns_tannin_to_van_solkema.md` | `pdfs/bear_stearns_tannin_to_van_solkema.pdf` |
+| 4188 | Cioffi→Tannin | `md/bear_stearns_cioffi_to_tannin.md` | `pdfs/bear_stearns_cioffi_to_tannin.pdf` |
+| 4189 | **Cioffi→Mobasheri "fear" 预警** | `md/bear_stearns_cioffi_to_mobasheri_fear.md` | `pdfs/bear_stearns_cioffi_to_mobasheri_fear.pdf` |
+| 4190 | Cioffi→Mak (BNP Paribas) | `md/bear_stearns_cioffi_to_mak_bnp_paribas.md` | `pdfs/bear_stearns_cioffi_to_mak_bnp_paribas.pdf` |
+| 4191 | Ervin 邮件 | `md/bear_stearns_ervin.md` | `pdfs/bear_stearns_ervin.pdf` |
+| 4192 | Van Solkema 邮件 | `md/bear_stearns_van_solkema.md` | `pdfs/bear_stearns_van_solkema.pdf` |
+| 4193 | BSAM 估值标记 (Goldman) | `md/bear_stearns_bsam_marks_goldman_sachs.md` | `pdfs/bear_stearns_bsam_marks_goldman_sachs.pdf` |
+| 4194 | Kerr→Dibari (HGEL 问答) | `md/bear_stearns_kerr_to_dibari_hgel_qa.md` | `pdfs/bear_stearns_kerr_to_dibari_hgel_qa.pdf` |
+| 4195 | Cioffi ABACUS 估值标记 | `md/bear_stearns_cioffi_abacus_marks.md` | `pdfs/bear_stearns_cioffi_abacus_marks.pdf` |
+| 4196 | 固定收益概览 | `md/bear_stearns_fixed_income_overview.md` | `pdfs/bear_stearns_fixed_income_overview.pdf` |
+| 4197 | Quental 信函 | `md/bear_stearns_quental_letter.md` | `pdfs/bear_stearns_quental_letter.pdf` |
+| 4198 | HGEL 增强杠杆基金文件 | `md/bear_stearns_hgscs_enhanced_leverage.md` | `pdfs/bear_stearns_hgscs_enhanced_leverage.pdf` |
+| 4199 | **Tannin 日记（2006-11-23）** | `md/bear_stearns_tannin_diary_entry.md` | `pdfs/bear_stearns_tannin_diary_entry.pdf` |
+| 4200 | Cioffi→Kugler | `md/bear_stearns_cioffi_to_kugler.md` | `pdfs/bear_stearns_cioffi_to_kugler.pdf` |
+| 4180 | Cioffi 4/30 回报邮件 | `md/bear_stearns_cioffi_re_0430_returns.md` | `pdfs/bear_stearns_cioffi_re_0430_returns.pdf` |
+| 4181 | Friedman→Alix 流动性指引 | `md/bear_stearns_friedman_to_alix_wsj_liquidity.md` | `pdfs/bear_stearns_friedman_to_alix_wsj_liquidity.pdf` |
+| 4182 | Quental→Donnellan | `md/bear_stearns_quental_to_donnelan.md` | `pdfs/bear_stearns_quental_to_donnelan.pdf` |
+| 5388 | **Cioffi 等 HGEL 股权分配邮件链（扫描件 OCR）** | `md/bear_stearns_email_5388_cioffi_to_cummins_tannin_geissinger_2007-04-01.md` | `pdfs/bear_stearns_email_5388_cioffi_to_cummins_tannin_geissinger_2007-04-01.pdf` |
+| — | SEC 诉 Cioffi 与 Tannin 证券欺诈投诉全文（LR-20625，2008-06-19） | `md/bear_stearns_sec_complaint_lr20625_2008.md` | `pdfs/bear_stearns_sec_complaint_lr20625_2008.pdf` |
+
+> 重点三封：**4185**（Tannin 风险警示）、**4189**（Cioffi "fear" 邮件）、**4199**（Tannin 日记）——三者是 SEC 指控与媒体报道中反复引用的"对内悲观"铁证；**5388** 为 OCR 转写的 7 封合规争议邮件链。
 
 ---
 
