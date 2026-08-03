@@ -4,3 +4,6 @@ logs/
 eng.traineddata
 rendered_lehman/
 ocr_lehman_results.json
+rendered_fixup/
+ocr_fixup.json
+scanned_pages_map.json

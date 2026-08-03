@@ -82,7 +82,7 @@ n
 
 ［第 2 页］
 
-［第 2 页：疑似扫描图片 / 无可用文本，建议核对原始 PDF］
+［第 2 页：空白页（原 PDF 该页无文字内容，已核验为全白页）］
 
 ［第 3 页］
 
@@ -2614,8 +2614,17 @@ Infusions into LCPI March, May and August 2008
 
 ［第 82 页］
 
-1609 
 Infusion into LBSF May 2008
+
+Step 1: LBI requests paydown from LBHI for the purpose of infusing capital into LBSF (LBHI).
+
+Step 2: LBHI wires money to LBI (LBI increases cash and credits paid-in capital; LBHI decreases cash and increases investment asset in LBI).
+
+Step 3: LBI wires money to LBSF (LBSF increases cash and credits paid-in capital; LBI decreases cash and increases investment asset in LBSF).
+
+(LBI = subsidiary of LBHI; LBSF = subsidiary of LBI)
+
+1609
 
 ［第 83 页］
 
